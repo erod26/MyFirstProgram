@@ -13,6 +13,9 @@ class MyFirstProgram {
     rundlast() {
         console.log('This method runs last!');
     }
+    runMiddle() {
+        console.log('This code runs in between the other two functions....')
+    }
 }
 
 const newInstance = new MyFirstProgram("a", "b", "c");
