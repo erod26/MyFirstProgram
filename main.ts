@@ -8,10 +8,10 @@ class MyFirstProgram {
         console.log(argArray);
     }
     runFirst(callback: Function) {
-        console.log('This method runs first...');
+        console.log('This method runs first!...');
     }
     rundlast() {
-        console.log('This method runs last');
+        console.log('This method runs last!');
     }
 }
 
